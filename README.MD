@@ -1,13 +1,9 @@
-### Programozás Karrier Ünnepi Kalendárium
+### Mini project of the PK - Advent calendar.
 
-Ünnepi kallendárium mini projekt a [Programozás Karrier youtube](https://www.youtube.com/@programozaskarrier) csatornáján.
+[youtube](https://www.youtube.com/watch?v=BNYTKIHqyxA)
 
-**[Oldal előnézete](https://gerry9009.github.io/PK-kalendarium/)**
 
-## Képek:
 
-[UNSPLASH](https://unsplash.com/)
 
-[Header](https://unsplash.com/photos/assorted-christmas-ornaments-7VOyZ0-iO0o)
 
-[Background](https://unsplash.com/photos/green-pine-tree-with-fireflies-SBdmQcW8qag)
+
