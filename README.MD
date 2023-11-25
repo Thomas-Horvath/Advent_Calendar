@@ -1,6 +1,6 @@
 ### Mini project of the PK - Advent calendar.
 
-[youtube](https://www.youtube.com/watch?v=BNYTKIHqyxA)
+# The lesson is available at the following link: [youtube](https://www.youtube.com/watch?v=BNYTKIHqyxA)
 
 
 
