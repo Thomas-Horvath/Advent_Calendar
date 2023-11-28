@@ -48,7 +48,7 @@ main {
 .card {
     color: #fff;
     width: 25vw;
-    height: 30vh;
+    height: 45vh;
     position: relative;
 
 }
@@ -80,6 +80,26 @@ main {
     background: #a3b763;
     color: #000;
     font-size: 1.2rem;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.card_header {
+    height: 50%;
+    width: 100%;
+}
+
+.card_header iframe {
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+}
+
+.card_body {
+    display: flex;
+    align-items: center;
+    height: 50%;
 }
 
 .is-flipped {
@@ -87,6 +107,28 @@ main {
     visibility: hidden;
 }
 
+.btn {
+    font-family: inherit;
+    display: block;
+    cursor: pointer;
+    width: 100%;
+    max-width: 550px;
+    padding: 1rem;
+    font-size: 3rem;
+    margin: 5rem auto;
+    background: #a3b763;
+    color: #000;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+ .btn:hover {
+    background-color: #bab563;
+ }
+ .btn:active {
+    transform: scale(.96);
+ }
 footer {
     display: flex;
     align-items: center;
